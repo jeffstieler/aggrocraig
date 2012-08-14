@@ -1,0 +1,9 @@
+body {
+  padding-top: 60px;
+}
+ul#results {
+  list-style-type: none;
+}
+ul#results li:hover {
+    background-color: lightgray;
+}
